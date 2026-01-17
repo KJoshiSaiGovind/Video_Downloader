@@ -1,0 +1,26 @@
+# Sensitive Data
+cookies.txt
+*.cookie
+secrets.toml
+.env
+
+# Large Binaries / System specific
+ffmpeg.exe
+ffmpeg.zip
+ffmpeg_temp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit
+.streamlit/
+! .streamlit/config.toml
+
+# Temp folders
+downloads_temp/
+debug_downloads/
+test_insta_download/
