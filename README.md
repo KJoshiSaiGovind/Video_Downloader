@@ -2,8 +2,6 @@
 
 A premium, user-friendly web application to download videos and images from **YouTube**, **Instagram** (Reels & Posts), and **X (Twitter)** in maximum quality (up to 4K). Built with **Python** and **Streamlit**.
 
-![App Screenshot](https://github.com/KJoshiSaiGovind/Video_Downloader/raw/main/screenshot.png) 
-*(Note: You can add a screenshot here later)*
 
 ## ✨ Features
 *   **Universal Support**: Download from YouTube, Instagram, and X/Twitter with one search bar.
