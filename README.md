@@ -1,3 +1,7 @@
+Open your Terminal (VSCode).
+Run: streamlit run app.py
+Open http://localhost:8501
+
 link:https://video-downloader143.streamlit.app/
 
 # Universal Media Downloader 📥
